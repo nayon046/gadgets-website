@@ -1,0 +1,89 @@
+.container{
+    
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF136F;
+}
+.buy-now-button{
+    background: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.shoes .card{
+    padding: 20px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    
+}
+
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
+.logo-area img{ 
+    width:80%
+}
+.carousel-indicators li {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 1px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #CECECE;
+    border: 1px solid #fff;
+    border-radius: 10px;
+}
+
+.carousel-indicators .active {
+    width: 35px;
+    height: 10px;
+    margin: 0;
+    background-color: #FF9C35 ;
+}
+
+.card-category-area .card-body{
+    padding: 20% 0 20% 20%;
+}
+.card-category-area .card{
+    padding: 40px 40px 0 40px;
+}
+.category-title h2{
+    display:inline-block;
+    height:50px;
+    box-shadow: 0 25px 0 -21px #FF9C35;
+    border-radius: 10px;
+}
+.category-title{
+    margin-bottom: 40px;
+}
+.margin-section-area{
+    margin-bottom: 60px;
+}
+.product-category-title{
+    padding-bottom: 40px;
+}
+.see-color{
+    color:#FF9D00
+}
+.navbar-expand-lg .navbar-nav a {
+color:#707070
+}
